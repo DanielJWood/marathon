@@ -1,0 +1,13 @@
+{
+	"stickerImage": "test", 
+	"ll": { 
+        	"lat": 1,
+        	"lon": 1
+    },
+	"ur": { 
+        	"lat": 1,
+       		"lon": 1
+    },
+	"title": "test",
+	"autoPlays": false
+}

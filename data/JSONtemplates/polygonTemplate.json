@@ -1,0 +1,15 @@
+{
+  "title": "Belgium",
+  "autoPlays": false,
+  "camera": {
+    "height": 0.2, 
+    "lat": 50.8, 
+    "lon": 4.4 
+  },
+  "lead": "Belgium Lead polygon",
+  "style": {
+    "color": "red"
+  },
+  "text": "This is a polyon text",
+  "bounds": []
+}

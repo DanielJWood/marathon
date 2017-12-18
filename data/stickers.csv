@@ -1,0 +1,87 @@
+card,Troops,flagURL,lllat,lllon,ratio,width
+1,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.45835188,1.7578125,2,2.153320313
+1,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,52.13348804,-2.065429688,2,2.153320313
+1,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.66762782,7.470703125,2,2.153320313
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,51.44716035,4.108886719,2,0.600163
+2,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.72254683,4.141845703,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.02185842,4.460449219,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.20324274,4.680175781,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.69096039,5.592041016,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.31973404,6.405029297,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,47.58393662,6.459960937,2,0.600163
+2,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,47.93106635,4.954833984,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,52.35547371,5.998535156,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.92394345,5.723876953,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.29627609,6.009521484,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.73645514,5.811767578,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.74578131,6.009521484,2,0.600163
+2,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.24017888,6.075439453,2,0.600163
+3,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.76425936,3.905639648,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.51094352,4.196777344,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.2472049,3.933105469,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.77791276,5.822753906,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.63290859,6.6796875,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.15142814,5.537109375,2,0.600163
+3,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.10743119,6.525878906,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.62483746,4.130859375,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.4813829,4.548339844,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.13110764,4.680175781,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.81287701,4.921875,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.39451208,5.141601563,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.82380909,4.943847656,2,0.600163
+3,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.61070994,5.44921875,2,0.600163
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.04302974,4.213256836,2,0.5
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.70316772,4.092407227,2,0.5
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.58934858,4.680175781,2,0.5
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.59021194,4.77355957,2,0.5
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.1655666,4.581298828,2,0.5
+4,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.85215167,4.647216797,2,0.5
+4,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.58400678,3.2,2,0.5
+4,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.42348064,3.3,2,0.5
+4,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,51.1724553,3.438720703,2,0.5
+4,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.92381327,3.856201172,2,0.5
+4,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.52739681,3.944091797,2,0.5
+4,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.26063518,5.240478516,2,0.5
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.44351305,3.773803711,2,0.5
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.94061518,3.065185547,2,0.1
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.19096777,3.240966797,2,0.1
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.52164253,4.092407227,2,0.5
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.76352593,3.735351563,2,0.5
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.72254683,4.103393555,2,0.5
+5,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.1517861,4.515380859,2,0.5
+5,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.32512199,3.581542969,2,0.5
+5,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.26063518,5.119628906,2,0.5
+5,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,51.0413939,3.427734375,2,0.5
+5,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.7086344,3.33984375,2,0.5
+5,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.3875078,2.955322266,2,0.5
+5,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.46812407,2.603759766,2,0.5
+6,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.96535591,2.208251953,2,0.4
+6,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.93000812,3.383789063,2,0.4
+6,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,49.59647007,4.405517578,2,0.4
+6,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.60415949,3.790283203,2,0.4
+6,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.97918243,3.949584961,2,0.4
+6,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.38050249,2.741088867,2,0.4
+6,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.8232885,2.817993164,2,0.4
+6,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.36298468,1.675415039,2,0.4
+6,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.51807645,1.065673828,2,0.4
+6,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.05946985,1.878662109,2,0.4
+6,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,48.5820584,3.757324219,2,0.4
+7,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,50.94458443,2.543334961,2,0.3
+7,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.64249394,2.675170898,2,0.3
+7,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.94458443,3.081665039,2,0.3
+7,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.53946901,1.834716797,2,0.5
+7,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.00184392,2.779541016,2,0.5
+7,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,49.04506962,4.537353516,2,0.5
+7,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.10352194,3.768310547,2,0.5
+7,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.57626026,3.592529297,2,0.5
+7,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.02891656,3.153076172,2,0.5
+7,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.38050249,1.823730469,2,0.5
+8,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,51.01764242,2.363433838,2,0.11
+8,France,https://github.com/DanielJWood/dunkirk/raw/master/img/france.png,50.92857415,2.436904907,2,0.11
+8,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.809406,1.809997559,2,0.3
+8,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.65120196,2.007751465,2,0.3
+8,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.6303,2.590026855,2,0.3
+8,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,50.84583877,3.183288574,2,0.3
+8,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.05693373,3.15032959,2,0.3
+9,Nazi,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/nazi.png,51.01764242,2.363433838,2,0.3
+9,United Kingdom,https://raw.githubusercontent.com/DanielJWood/dunkirk/master/img/uk.png,51.1262791,1.2658841,2,0.3

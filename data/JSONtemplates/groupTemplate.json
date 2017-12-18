@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Group 1 name"
+  },
+  "title": "Belgium",
+  "lead": "test Lead",
+  "text": "test of group text",
+  "layers": [
+    {
+      "stickers": []
+    },{
+      "polygons": []
+    }
+  ]
+}

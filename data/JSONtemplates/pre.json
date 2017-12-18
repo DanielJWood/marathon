@@ -1,0 +1,17 @@
+  {
+  "metadata": {
+    "name": "Marathon",
+    "author": "Daniel Wood",
+    "summary": "Marathon summary",
+    "description": "description",
+    "cardImage": ""
+  },
+  "layers":[
+    {
+      "polygons": []
+    }
+  ],
+  "groups": [],
+  "mapType": "moonlight",
+  "devTools": true
+}
