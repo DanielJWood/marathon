@@ -82,8 +82,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "0",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 1 - The Tabernas, Spain"
       }
@@ -161,10 +160,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "1",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 1 - The Tabernas, Spain"
+        "name": "The Tabernas, Spain"
       }
     },
     {
@@ -240,8 +238,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "2",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 2 - The Arabian, Jordan"
       }
@@ -319,10 +316,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "3",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 2 - The Arabian, Jordan"
+        "name": "The Arabian, Jordan"
       }
     },
     {
@@ -398,8 +394,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "4",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 3 - The Antarctic, Antarctica"
       }
@@ -477,10 +472,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "5",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 3 - The Antarctic, Antarctica"
+        "name": "The Antarctic, Antarctica"
       }
     },
     {
@@ -556,8 +550,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "6",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 4 - The Simpson, Australia"
       }
@@ -635,10 +628,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "7",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 4 - The Simpson, Australia"
+        "name": "The Simpson, Australia"
       }
     },
     {
@@ -714,8 +706,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "8",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 5 - The Richtersveld, South Africa"
       }
@@ -793,10 +784,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "9",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 5 - The Richtersveld, South Africa"
+        "name": "The Richtersveld, South Africa"
       }
     },
     {
@@ -872,8 +862,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "10",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 6 - The Atacama, Chile"
       }
@@ -951,10 +940,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "11",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 6 - The Atacama, Chile"
+        "name": "The Atacama, Chile"
       }
     },
     {
@@ -1030,8 +1018,7 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "12",
+      "text": "group text",      
       "metadata": {
         "name": "Desert 7 - The Mojave, U.S.A."
       }
@@ -1109,10 +1096,9 @@
       ],
       "lead": "test Lead",
       "title": "Belgium",
-      "text": "group text",
-      "id": "13",
+      "text": "group text",      
       "metadata": {
-        "name": "Desert 7 - The Mojave, U.S.A."
+        "name": "The Mojave, U.S.A."
       }
     }
   ],
@@ -1120,7 +1106,7 @@
     "cardImage": "https://static1.squarespace.com/static/57a1c5c74402436133e320ae/t/58b80cca4402436b746163a2/1488456913895/Post+Run+-+Twitter+2.1.jpg",
     "author": "Mina Guli",
     "description": "By 2030, Global water demand will be 40% greater than supply. To share this message with the world, I undertook one of the most challenging feats of my life I ran 40 Marathons across 7 Deserts, On 7 Continents in 7 weeks for 1 reason: to raise awareness of the global water crisis.",
-    "name": "#RUN4WATER @ 10:57:06",
+    "name": "#RUN4WATER @ 11:02:06",
     "summary": "I ran 40 Marathons across 7 Deserts, On 7 Continents in 7 weeks for 1 reason: to raise awareness of the global water crisis."
   }
 }
